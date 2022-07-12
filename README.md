@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ishanoj
 - 👀 I’m interested in exploring new frontend technologies
-- 🌱 I’m currently learning Ember 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on various platforms
-- 📫 How to reach me ...
+- 📫 Reach me 9037935804
 
 <!---
 ishanoj/ishanoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
